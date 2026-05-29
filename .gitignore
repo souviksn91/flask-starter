@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual Environment
+.venv/
+
+# Environment Variables
+.env
+
+# Flask
+instance/
+.webassets-cache
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Database migrations cache
+migrations/__pycache__/
+
+# Pytest
+.pytest_cache/
+
+# Ruff
+.ruff_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
